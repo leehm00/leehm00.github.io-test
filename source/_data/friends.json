@@ -12,17 +12,11 @@
         "introduction": "提供全球领先的翻译技术与服务",
         "avatar": "/medias/avatars/bytedtrans.png"
     },{
-        "name": "AntNLP",
-        "url": "https://antnlp.org",
+        "name": "ADSLab",
+        "url": "http://adslab.cse.cuhk.edu.hk/index.html",
         "title": "访问主页",
-        "introduction": "华东师范大学自然语言处理实验室欢迎您的加入！",
+        "introduction": "Applied Distributed Systems Lab",
         "avatar": "/medias/avatars/antnlp.ico"
-    },{
-        "name": "IDS²",
-        "url": "https://www.smart-dependable-sino-europe.institute",
-        "title": "访问主页",
-        "introduction": "中欧可靠智能软件联合实验室欢迎您的加入！",
-        "avatar": "/medias/avatars/ids2.jpg"
     },{
         "name": "孙长志",
         "url": "https://www.czsun.site",

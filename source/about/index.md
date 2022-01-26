@@ -6,18 +6,26 @@ layout: "about"
 mathjax: true
 ---
 
+## Work Experience
+* <b>None</b>
 
-## CV
-[中文版](/medias/files/cv-zh.pdf)
-[English Version](/medias/files/cv-en.pdf)
-
-## 教育背景
-* <b>硕士 华东师范大学 计算机科学与技术</b>
-2018/06 - 至今
- *均分：91.5/100*
-* <b>本科 华东师范大学 计算机科学与技术</b>
-2014/09 - 2018/06
- *排名：1/110*
+## Education
+* <b>Mater's Degree</b>
+2022/09 - 至今
+ *USTC*
+ *To Be Continued.*
+* <b>Bachelor's Degree</b>
+2018/09 - 2022/06
+ *USTC*
+ *Slave of the couses.*
+* <b>Senior High</b>
+2015/09 - 2018/06
+ *Chengdu No.7 High School*
+ *Somehow upset,but it made me grow up.Thankfully I am out.*
+* <b>Junior High</b>
+2012/09 - 2015/06
+ *Guess*
+ *My Treasureland,all my cherished memories.*
 
 ## 研究方向
 主要研究**成分句法分析、依存句法分析、机器翻译**等方向，
